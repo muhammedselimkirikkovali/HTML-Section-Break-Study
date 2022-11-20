@@ -1,2 +1,2 @@
-# HTML-Bolum-Sonu-Calismasi
-Kodluyoruz HTML Bölüm Sonu Çalışması
+# HTML-Section-Break-Study
+Kodluyoruz.org HTML SEction Break Study
